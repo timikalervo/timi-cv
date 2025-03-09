@@ -8,7 +8,7 @@ function App() {
     <>
       <div>
         <img 
-          src="timi-cv/Edustavakuva.JPEG" 
+          src="https://timikalervo.github.io/timi-cv/Edustavakuva.JPEG" 
           class="picofme"
           alt="Picture of me" 
           height={250}
