@@ -1,0 +1,14 @@
+{
+    "Gigantti": {
+        "timeframe":"from x to y",
+        "text":"I worked as a tech salesperson."
+    },
+    "Elisa": {
+        "timeframe":"from x to y",
+        "text":"I worked as a salesperson in Elisa shop."
+    },
+    "Valokuitunen": {
+        "timeframe":"from x to y",
+        "text":"I worked as a B2B salesperson for small housing companies."
+    }
+}
